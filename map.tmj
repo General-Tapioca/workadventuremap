@@ -651,21 +651,8 @@
          "tilewidth":32
         }, 
         {
-         "columns":18,
-         "firstgid":3897,
-         "image":"..\/Tiles\/Tiled-win32\/examples\/rpg\/beach_tileset.png",
-         "imageheight":416,
-         "imagewidth":576,
-         "margin":0,
-         "name":"beach_tileset",
-         "spacing":0,
-         "tilecount":234,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
          "columns":32,
-         "firstgid":4131,
+         "firstgid":3897,
          "image":"..\/Tiles\/Tiled-win32\/examples\/forest\/squirrel.png",
          "imageheight":1024,
          "imagewidth":1024,
