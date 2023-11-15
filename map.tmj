@@ -610,19 +610,6 @@
          "tilecount":1024,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "columns":20,
-         "firstgid":1250,
-         "image":"tilesets\/forest.tmx",
-         "imageheight":256,
-         "imagewidth":640,
-         "margin":0,
-         "name":"forest",
-         "spacing":0,
-         "tilecount":160,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
