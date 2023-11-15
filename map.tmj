@@ -431,12 +431,12 @@
                 {
                  "height":64,
                  "id":18,
-                 "name":"to-conference",
+                 "name":"to-pascal",
                  "properties":[
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/_\/38nk0mhtt4x\/metarox2004.github.io\/WorkAdventure\/quentic_addon.tmj#from-addon"
+                         "value":"https:\/\/play.workadventu.re\/_\/38nk0mhtt4x\/metarox2004.github.io\/WorkAdventure\/quentic_addon.tmj#from-claude"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -448,7 +448,7 @@
                 {
                  "height":32,
                  "id":19,
-                 "name":"from-conference",
+                 "name":"from-pascal",
                  "properties":[
                         {
                          "name":"start",
